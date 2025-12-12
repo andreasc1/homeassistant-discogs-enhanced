@@ -69,6 +69,8 @@ This integration provides the following sensors:
 * **`sensor.discogs_enhanced_collection_value_min`**: Displays the estimated minimum value of your collection (currency symbol set dynamically).
 * **`sensor.discogs_enhanced_collection_value_median`**: Displays the estimated median value of your collection (currency symbol set dynamically).
 * **`sensor.discogs_enhanced_collection_value_max`**: Displays the estimated maximum value of your collection (currency symbol set dynamically).
+* **`sensor.discogs_enhanced_vinyl_count`**: Displays the number of Vinyl records in your collection (currency symbol set dynamically).      
+* **`sensor.discogs_enhanced_cd_count`**: Displays the number of Vinyl records in your collection (currency symbol set dynamically).      
 
 ### Support & Contributions
 
