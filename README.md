@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=andreasc1&repository=homeassistant-discogs-enhanced&category=integration)
 
-This custom integration for Home Assistant provides enhanced monitoring of your Discogs collection, building upon the foundations of the existing official Discogs integration. Get insightful data on your collection's size, wantlist, and now, the estimated **minimum, median, and maximum market value** of your prized vinyl or CD collection!
+This custom integration for Home Assistant provides enhanced monitoring of your Discogs collection, building upon the foundations of the existing official Discogs integration. Get insightful data on your collection's size, wantlist, and now, the estimated **minimum, median, and maximum market value** of your prized vinyl or CD collection! Also added vinyl and cd amount of records.
 
 ### Why this Integration?
 
@@ -53,6 +53,10 @@ sensor:
       - collection_value_min
       - collection_value_median
       - collection_value_max
+      # --- 2 new entities for counting specific formats ---
+      - vinyl_count
+      - cd_count
+
 ```
 
 ### Sensors
