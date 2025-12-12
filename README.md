@@ -66,11 +66,11 @@ This integration provides the following sensors:
 * **`sensor.discogs_enhanced_collection`**: Displays the total number of records in your collection.
 * **`sensor.discogs_enhanced_wantlist`**: Displays the total number of items in your wantlist.
 * **`sensor.discogs_enhanced_random_record`**: Suggests a random record from your collection with attributes like artist, title, label, and cover image.
-* **`sensor.discogs_enhanced_collection_value_min`**: Displays the estimated minimum value of your collection (currency symbol set dynamically).
-* **`sensor.discogs_enhanced_collection_value_median`**: Displays the estimated median value of your collection (currency symbol set dynamically).
-* **`sensor.discogs_enhanced_collection_value_max`**: Displays the estimated maximum value of your collection (currency symbol set dynamically).
-* **`sensor.discogs_enhanced_vinyl_count`**: Displays the number of Vinyl records in your collection (currency symbol set dynamically).      
-* **`sensor.discogs_enhanced_cd_count`**: Displays the number of Vinyl records in your collection (currency symbol set dynamically).      
+* **`sensor.discogs_enhanced_collection_value_min`**: Displays the estimated minimum value of your collection.
+* **`sensor.discogs_enhanced_collection_value_median`**: Displays the estimated median value of your collection.
+* **`sensor.discogs_enhanced_collection_value_max`**: Displays the estimated maximum value of your collection.
+* **`sensor.discogs_enhanced_vinyl_count`**: Displays the number of Vinyl records in your collection.      
+* **`sensor.discogs_enhanced_cd_count`**: Displays the number of Vinyl records in your collection.      
 
 ### Support & Contributions
 
