@@ -1,4 +1,5 @@
 ## Home Assistant Discogs Enhanced Integration
+![Alt text](discogs.png)
 
 [![hacs_badge](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=andreasc1&repository=homeassistant-discogs-enhanced&category=integration)
 
