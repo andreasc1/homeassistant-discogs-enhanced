@@ -1,6 +1,4 @@
 {
   "name": "Discogs Enhanced Integration",
-  "render_readme": true,
-  "zip_release": true,
-  "filename": "discogs_enhanced.zip"
+  "render_readme": true
 }
