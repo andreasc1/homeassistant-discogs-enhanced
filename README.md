@@ -86,7 +86,8 @@ sensor:
 | `sensor.discogs_enhanced_cd_count` | Number of CDs in your collection |
 
 ---
-Visual outcome / Cards:
+### Visual outcome / Cards:
+
 ![Cards](cards.png)
 ---
 
